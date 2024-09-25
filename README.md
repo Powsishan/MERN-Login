@@ -29,5 +29,5 @@ This is a simple login and signup application built using the MERN stack (MongoD
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/yourusername/MERN-Login.git
+cd MERN-Login
